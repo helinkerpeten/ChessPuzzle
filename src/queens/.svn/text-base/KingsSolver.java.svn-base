@@ -1,0 +1,13 @@
+package queens;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class KingsSolver extends Solver{
+
+	@Override
+	public List<Board> getAllSolutionsFor(int dimension) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}

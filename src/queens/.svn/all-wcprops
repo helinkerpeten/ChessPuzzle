@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cs222hws/!svn/ver/2889/sp15/helin.kerpeten/Chessboard/src/queens
+END
+KingsSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/cs222hws/!svn/ver/3367/sp15/helin.kerpeten/Chessboard/src/queens/KingsSolver.java
+END
+Piece.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cs222hws/!svn/ver/3100/sp15/helin.kerpeten/Chessboard/src/queens/Piece.java
+END
+Bishop.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/cs222hws/!svn/ver/3239/sp15/helin.kerpeten/Chessboard/src/queens/Bishop.java
+END
+RooksSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/cs222hws/!svn/ver/3239/sp15/helin.kerpeten/Chessboard/src/queens/RooksSolver.java
+END
+NQueensSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/cs222hws/!svn/ver/3239/sp15/helin.kerpeten/Chessboard/src/queens/NQueensSolver.java
+END
+Queen.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cs222hws/!svn/ver/3100/sp15/helin.kerpeten/Chessboard/src/queens/Queen.java
+END
+BishopsSolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/cs222hws/!svn/ver/3355/sp15/helin.kerpeten/Chessboard/src/queens/BishopsSolver.java
+END
+Rook.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cs222hws/!svn/ver/3239/sp15/helin.kerpeten/Chessboard/src/queens/Rook.java
+END
+King.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cs222hws/!svn/ver/3239/sp15/helin.kerpeten/Chessboard/src/queens/King.java
+END
+Board.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cs222hws/!svn/ver/3367/sp15/helin.kerpeten/Chessboard/src/queens/Board.java
+END
+Solver.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/cs222hws/!svn/ver/3355/sp15/helin.kerpeten/Chessboard/src/queens/Solver.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cs222hws/!svn/ver/3368/sp15/helin.kerpeten/Chessboard/src/queens/Game.java
+END
